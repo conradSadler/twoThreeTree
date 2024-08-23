@@ -1,3 +1,4 @@
+
 /*
  * Name: Conrad Sadler
  * Project: 2-3 tree
@@ -7,12 +8,12 @@
  */
 public class TreeNode_CS 
 {	
-	protected int valueOne;
-	protected int valueTwo;
-	protected TreeNode_CS previous;
-	protected TreeNode_CS leftChild;
-	protected TreeNode_CS middleChild;
-	protected TreeNode_CS rightChild;
+	private int valueOne;
+	private int valueTwo;
+	private TreeNode_CS previous;
+	private TreeNode_CS leftChild;
+	private TreeNode_CS middleChild;
+	private TreeNode_CS rightChild;
 	
 	public TreeNode_CS() 
 	{
